@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.noir{
+    background-color: black;
+    color: white;
+}
+.yellow{
+    background-color: #ff0;
+}
+.noir, .yellow{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
